@@ -10,6 +10,15 @@ Inicialmente o projeto conta apenas com gerenciamento simples de usuários e con
 ## Setup
 Execute o seguinte comando para instalar as dependencias  `npm install`.
 
+
+### Executar projeto
+
+Execute o seguinte comando para executar o projeto
+
+```js
+npm start
+```
+
 ### Migrations
 
 Execute o seguinte comando para executar migrations de inicialização.
